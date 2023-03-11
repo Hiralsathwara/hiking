@@ -1,4 +1,4 @@
 # hiking
 hiking website using HTML & CSS.
 
-visit link :-
+visit link :-   https://hiralsathwara.github.io/hiking/
